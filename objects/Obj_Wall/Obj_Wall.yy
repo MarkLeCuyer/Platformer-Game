@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_InsivibleWall",
+  "name": "Obj_Wall",
   "spriteId": {
-    "name": "Spr_InvisibleWall",
-    "path": "sprites/Spr_InvisibleWall/Spr_InvisibleWall.yy",
+    "name": "Spr_Wall",
+    "path": "sprites/Spr_Wall/Spr_Wall.yy",
   },
   "solid": false,
   "visible": true,
