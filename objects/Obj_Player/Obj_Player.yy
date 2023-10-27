@@ -9,7 +9,10 @@
   "solid": false,
   "visible": true,
   "managed": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "Spr_Player",
+    "path": "sprites/Spr_Player/Spr_Player.yy",
+  },
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,

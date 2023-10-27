@@ -38,3 +38,11 @@ if (place_meeting(x,y+vsp,Obj_Wall))
 	vsp = 0;
 } 
 y = y + vsp; 
+
+//Animation
+if (!place_meeting(x,y+1,Obj_Wall)) 
+{
+	sprite_index = Spr_PlayerA; 
+	image_speed = 0; 
+	if (vsp > 0) image_index = 1; else image_index = 0;
+}
