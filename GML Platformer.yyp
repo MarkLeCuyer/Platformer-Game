@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "GML Platformer",
   "resources": [
+    {"id":{"name":"Spr_Bird","path":"sprites/Spr_Bird/Spr_Bird.yy",},"order":9,},
     {"id":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},"order":0,},
     {"id":{"name":"Ts_wall","path":"tilesets/Ts_wall/Ts_wall.yy",},"order":0,},
     {"id":{"name":"Spr_Background","path":"sprites/Spr_Background/Spr_Background.yy",},"order":2,},
