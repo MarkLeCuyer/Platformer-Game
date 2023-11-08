@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "GML Platformer",
   "resources": [
+    {"id":{"name":"Spr_Yay","path":"sprites/Spr_Yay/Spr_Yay.yy",},"order":10,},
     {"id":{"name":"Spr_Bird","path":"sprites/Spr_Bird/Spr_Bird.yy",},"order":9,},
     {"id":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},"order":0,},
     {"id":{"name":"Ts_wall","path":"tilesets/Ts_wall/Ts_wall.yy",},"order":0,},
@@ -15,6 +16,7 @@
     {"id":{"name":"Spr_Walls","path":"sprites/Spr_Walls/Spr_Walls.yy",},"order":6,},
     {"id":{"name":"Spr_PlayerR","path":"sprites/Spr_PlayerR/Spr_PlayerR.yy",},"order":5,},
     {"id":{"name":"Spr_Wall","path":"sprites/Spr_Wall/Spr_Wall.yy",},"order":1,},
+    {"id":{"name":"Sprite10","path":"sprites/Sprite10/Sprite10.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
