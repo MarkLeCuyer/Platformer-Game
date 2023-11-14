@@ -7,10 +7,13 @@ A GML Starter kit for the **Platformer Tutorial (GML) - Parts 1 & 2**
 
 ***Notes***: 
 
-* The environment was set up using GMS version 2022.9.1.51. 
+* The environment was set up using GMS version 2022.9.1.51.
+* I have taken the assets from this starter kit and the lesson in the tutorial to make a platformer game of my own. 
 * I take no credit for the assets or the concepts.
-* All I have provided are the assets from the tutorial and the preferences for GML code (not visual).
-* My goal is to provide a template that a student can clone to follow along with Shaun and practice using Source Control Management along the way.
+* I have used my own original sprite with an idle, walk, and jump animation.
+* I used the tiles from the tutorial to build by own mini world of platforms to jump on and adventure.
+* Game takes about 30 seconds to get from start to end. 
+
 
 ## Credits
 The assets and video tutorials were created by [Shaun Spalding](https://www.youtube.com/c/ShaunSpalding).
