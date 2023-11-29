@@ -14,7 +14,10 @@
     "path": "sprites/Spr_Player/Spr_Player.yy",
   },
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "Obj_Wall",
+    "path": "objects/Obj_Wall/Obj_Wall.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
